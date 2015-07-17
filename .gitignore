@@ -1,3 +1,30 @@
+## project ##
+build/
+bin/
+*.log
+*~
+*.db
+*.tmp
+.DS*
+*.tex
+nbproject/
+.metadata/
+.vagrant/
+vagrant/.vagrant/
+
+
+# version.h should be created by cmake with git info
+src/version.h
+
+# Doxyfile should be created by cmake with git info
+*Doxyfile
+*header.tex
+*doxygen_sqlite3.db
+
+# don't "push" doxygen generated html pages
+doc/html/
+
+
 # Compiled Object files
 *.slo
 *.lo
