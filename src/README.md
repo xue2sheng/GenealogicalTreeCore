@@ -2,6 +2,15 @@
 
 Source folder for headears & code files directly involved with the core problem. 
 
+![width=150px](../../image/core.png)
+
+<!---
+@startuml core.png
+!include UML_DIR/detail_core.def
+!include UML_DIR/submodules.uml
+@enduml
+--->
+
 ## Simplications 
 
 Some stepts will be taken in order to circle problem to a manageable number of possibilities
