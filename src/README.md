@@ -2,7 +2,7 @@
 
 Source folder for headears & code files directly involved with the core problem. 
 
-![width=150px](../../image/core.png)
+![width=150px](https://github.com/xue2sheng/GenealogicalTree/blob/develop/image/core.png)
 
 <!---
 @startuml core.png
